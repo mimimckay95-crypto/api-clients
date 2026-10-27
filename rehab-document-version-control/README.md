@@ -17,3 +17,10 @@ This folder demonstrates GitHub's commit history, comparisons and reversible edi
 ## Revision log
 
 - Baseline: source reference and preservation rules recorded.
+- Revision 2: added a plan for comparing changes and recovering previous versions.
+
+## Next demonstration
+
+1. Compare this revision against the baseline commit.
+2. Inspect added lines in GitHub's comparison view.
+3. Retrieve the baseline revision if a rollback is needed.
